@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NARCOS BOT SECURITY | Privacy Policy</title>
+<style>
+*{box-sizing:border-box}
+body{
+  margin:0;background:#090909;color:#eee;
+  font-family:Arial,sans-serif;line-height:1.7;
+}
+header{
+  text-align:center;padding:55px 20px;
+  background:linear-gradient(135deg,#180000,#090909);
+  border-bottom:2px solid #b00000;
+}
+h1{color:#e00000;letter-spacing:2px}
+header p{color:#aaa}
+main{
+  max-width:850px;margin:35px auto;padding:30px;
+  background:#151515;border:1px solid #333;border-radius:12px;
+}
+h2{color:#e00000;margin-top:28px}
+footer{text-align:center;padding:25px;color:#777}
+</style>
+</head>
+<body>
+<header>
+  <h1>NARCOS BOT SECURITY</h1>
+  <p>Zásady ochrany osobních údajů</p>
+</header>
+<main>
+<h2>1. Úvod</h2>
+<p>Tyto zásady vysvětlují, jak NARCOS BOT SECURITY nakládá s údaji při používání bezpečnostních funkcí na Discordu.</p>
+
+<h2>2. Zpracovávané údaje</h2>
+<p>Podle používaných funkcí může bot zpracovávat Discord ID uživatelů, ID serverů, ID kanálů, ID rolí, obsah zpráv potřebný pro detekci spamu a údaje o bezpečnostních událostech.</p>
+
+<h2>3. Účel zpracování</h2>
+<p>Údaje se používají pro ochranu serverů, detekci spamu, raidů a nebezpečných administrátorských akcí, správu rolí a vytváření bezpečnostních záznamů.</p>
+
+<h2>4. Uchovávání údajů</h2>
+<p>Údaje se uchovávají pouze po dobu nezbytnou pro fungování příslušných funkcí. Konkrétní doba uchovávání závisí na nastavení a provozu bota.</p>
+
+<h2>5. Sdílení údajů</h2>
+<p>Údaje nejsou určeny k prodeji. Mohou být zpracovávány poskytovateli hostingu a platformou Discord v rozsahu potřebném pro provoz služby.</p>
+
+<h2>6. Bezpečnost</h2>
+<p>Provozovatel přijímá přiměřená opatření na ochranu údajů. Žádný systém však nemůže zaručit absolutní bezpečnost.</p>
+
+<h2>7. Kontakt</h2>
+<p>V případě dotazů ohledně ochrany údajů kontaktujte provozovatele prostřednictvím Discordu.</p>
+
+<p><strong>Poslední aktualizace:</strong> 2. listopadu 2026</p>
+</main>
+<footer>© 2026 NARCOS BOT SECURITY</footer>
+</body>
+</html>
